@@ -175,17 +175,18 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 	Steps for simulation – Run the simulation command with simulator options
 
-![Screenshot 2024-09-26 162357](https://github.com/user-attachments/assets/d5b60149-57f4-4be1-9be2-d581b38342d6)
-
 ### Fig 10: Design Browser window for simulation
 
-![image](https://github.com/user-attachments/assets/77786e4e-4eb6-434b-aeb3-43865fd71282)
+![Screenshot 2024-09-26 162357](https://github.com/user-attachments/assets/d5b60149-57f4-4be1-9be2-d581b38342d6)
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![image](https://github.com/user-attachments/assets/77786e4e-4eb6-434b-aeb3-43865fd71282)
 
-![image](https://github.com/user-attachments/assets/76c5fc63-6af9-42ca-8ef4-968740783e4a)
 
 ### Fig 12: Simulation Waveform Window
+![image](https://github.com/user-attachments/assets/76c5fc63-6af9-42ca-8ef4-968740783e4a)
+## Result:
+The functionality of a 4-bit adder was successfully verified using a test bench and simulated with the nclaunch tool.
 
 
 
